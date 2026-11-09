@@ -4,7 +4,7 @@ This repository contains my work for Activity 1, which focuses on setting up a d
 
 ## Collaboration Log
 
-- **Partner:** Mia
-- **GitHub username:** Not provided
-- **What we built:** A C program using the greet() function to display a collaboration message.
+- **Work Mode:** Individual Work
+- **What I built:** A C program using the greet() function to display a collaboration message.
 - **What I learned:** How to create and call user-defined functions in C, use GitLens to inspect commit history, and push changes to GitHub.
+- **Reflection:** I completed this activity individually and learned how Git, GitHub, and GitLens help track code changes.
