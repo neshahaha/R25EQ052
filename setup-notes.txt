@@ -1,0 +1,10 @@
+C/C++ Environment Setup – Activity 1
+
+1. Installed Visual Studio Code.
+2. Installed the C/C++ extension.
+3. Installed MinGW-w64 GCC compiler.
+4. Faced download issues while installing Git.
+5. Resolved the installation issue by retrying later.
+6. Configured Git username and email.
+7. Verified GCC using gcc --version.
+8. Successfully compiled and executed hello.c.
